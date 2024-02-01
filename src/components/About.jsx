@@ -2,7 +2,7 @@ import AboutProfile from "../assets/about.jpg";
 
 const About = () => {
   return (
-    <div id="about" className="poppins-regular pt-10 min-h-[90vh]">
+    <div id="about" className="poppins-regular pt-20 md:pt-0 min-h-[90vh]">
       <h1 className="text-3xl flex justify-center">About Me</h1>
       <div className="min-h-[70vh] py-10 px-10 flex justify-center relative h-full w-full rounded-lg flex-col md:flex-row items-center  md:h-72">
         {/* small screen */}
