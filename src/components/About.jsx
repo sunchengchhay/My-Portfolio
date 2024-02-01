@@ -41,9 +41,8 @@ const About = () => {
               Sun Chengchhay
             </h3>
             <p className="text-gray-600 text-justify">
-              Hi! My name is Sun Chengchhay. Currently, I am a Year3 SemesterII
-              student at Royal Univerisity of Phnom Penh, Majoring IT
-              Engineering
+              Hi! My name is Sun Chengchhay. Currently, I am a student at Royal
+              Univerisity of Phnom Penh, Majoring IT Engineering.
             </p>
             <a
               class="flex items-baseline mt-3 text-blue-600 hover:text-blue-900 focus:text-blue-900"
