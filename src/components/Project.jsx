@@ -103,7 +103,7 @@ const Project = () => {
                   </p>
                   <div className="space-x-4 flex justify-end">
                     <a
-                      href="https://learn.rupp.support/login/index.php"
+                      href="https://wegrow.today"
                       target="blank"
                       className="inline-block hover:bg-gray-400 hover:text-gray-100 hover:shadow-sm bg-gray-200 rounded-full bg-primary px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal transition duration-150 ease-in-out hover:bg-primary-600 "
                     >
